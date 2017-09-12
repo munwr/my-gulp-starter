@@ -59,3 +59,6 @@ typings/
 
 # Distribution folder
 dist/
+
+# DS store
+.DS_Store

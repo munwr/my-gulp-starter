@@ -24,7 +24,8 @@ gulp.task('browserSync', function() {
   browserSync({
     server: {
       baseDir: 'app'
-    }
+    },
+    port: 3000 // change port as required
   })
 })
 
